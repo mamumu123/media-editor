@@ -29,6 +29,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.24",
     "@vitejs/plugin-vue": "^5.0.4",
     "electron": "^29.1.1",
     "electron-builder": "^24.13.3",
